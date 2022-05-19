@@ -7,7 +7,9 @@
   "private": true,
   "scripts": {
     "lint": "eslint --fix src test",
-    "start": "forever start foreverConfig.json"
+    "start": "forever start foreverConfig.json",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "window": {
     "title": "Demo Team Support Server",
@@ -71,6 +73,8 @@
     "uid-safe": "^2.1.2",
     "winston": "^2.3.1",
     "winston-daily-rotate-file": "^1.4.6",
-    "ws": "^3.0.0"
-  }
+    "ws": "^3.0.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
