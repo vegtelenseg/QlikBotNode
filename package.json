@@ -38,7 +38,7 @@
     "trello": "^0.7.0"
   },
   "dependencies": {
-    "@slack/client": "^3.14.2",
+    "@slack/client": "^4.0.0",
     "body-parser": "^1.15.2",
     "botbuilder": "^3.12.0",
     "child-process": "^1.0.2",
@@ -62,7 +62,7 @@
     "mysql": "^2.15.0",
     "nodemailer": "^4.1.1",
     "nw-builder": "^3.1.2",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "qlik-auth": "^1.2.3",
     "qr-image": "^3.2.0",
