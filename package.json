@@ -61,7 +61,7 @@
     "jsonwebtoken": "^7.4.3",
     "mysql": "^2.15.0",
     "nodemailer": "^4.1.1",
-    "nw-builder": "^3.1.2",
+    "nw-builder": "^4.2.8",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "qlik-auth": "^1.2.3",
