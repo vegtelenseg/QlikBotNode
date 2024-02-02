@@ -60,7 +60,7 @@
     "gulp-util": "^3.0.8",
     "jsonwebtoken": "^7.4.3",
     "mysql": "^2.15.0",
-    "nodemailer": "^4.1.1",
+    "nodemailer": "^6.9.9",
     "nw-builder": "^3.1.2",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
